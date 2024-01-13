@@ -1,0 +1,15 @@
+{
+    "id": "chatcmpl-8gZ5yjZyH6rY0jKgzhhdtY3B0aKuM",
+    "object": "chat.completion",
+    "created": 1705155374,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "- Merge pull request #2321: Angular Material MDC migration part 1 (CBID-2055)
+- Merge pull request #2330: Release v2.9.33
+- Merge pull request #2329: Error handling API error
+- Merge pull request #2328: Fix last page check (CBID-2915)
+- Merge pull request #2326: Release v2.9.32" }, "logprobs": null, "finish_reason": "stop" } ], "usage": { "prompt_tokens": 1031, "completion_tokens": 86, "total_tokens": 1117 }, "system_fingerprint": null }
